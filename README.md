@@ -42,5 +42,5 @@ O projeto está sendo construído de forma incremental, com o objetivo de evolui
 
 ## 📫 Vamos nos conectar?
 
-- **LinkedIn:** [Meu perfil](www.linkedin.com/in/joaovictoroliveira226)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/joaovictoroliveira226)
 - **GitHub:** [Victor-Oliv](https://github.com/Victor-Oliv)
