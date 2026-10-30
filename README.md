@@ -1,3 +1,4 @@
+
 # Olá, eu sou o Victor! 👋
 
 💻 **Desenvolvedor Backend | Java & Spring Boot**
@@ -24,7 +25,7 @@ Gosto de colocar o aprendizado em prática por meio de projetos pessoais, explor
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AI](https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge)
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
 ### 🔔 Notification Hub
 
@@ -38,7 +39,26 @@ O projeto está sendo construído de forma incremental, com o objetivo de evolui
 - Organização em camadas
 - Testes automatizados com JUnit 5 e Mockito
 
+**Status:** Em desenvolvimento.
+
 📂 [Acessar repositório do Notification Hub](https://github.com/Victor-Oliv/notification-hub)
+
+---
+
+### 💈 API REST de Gerenciamento de Barbearia
+
+API REST desenvolvida com **Java e Spring Boot** para gerenciamento de uma barbearia.
+
+**Funcionalidades:**
+- Cadastro de clientes, barbeiros e serviços
+- Agendamento de horários
+- Validação de regras de negócio
+- Organização em camadas (Controller, Service e Repository)
+- Persistência de dados com JPA/Hibernate e PostgreSQL
+
+**Tecnologias:** Java, Spring Boot, Spring Data JPA, Hibernate e PostgreSQL.
+
+📂 [Acessar repositório da Barbearia](https://github.com/Victor-Oliv/barbearia-backend)
 
 ## 📫 Vamos nos conectar?
 
