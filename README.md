@@ -33,12 +33,6 @@ API REST desenvolvida com **Java 21 e Spring Boot** para gerenciamento de notifi
 
 O projeto está sendo construído de forma incremental, com o objetivo de evoluir para uma arquitetura com persistência de dados, mensageria, processamento assíncrono e integração com serviços da AWS.
 
-**MVP 1 concluído:**
-- Cadastro e consulta de notificações
-- Validação de dados e tratamento de exceções
-- Organização em camadas
-- Testes automatizados com JUnit 5 e Mockito
-
 **Status:** Em desenvolvimento.
 
 📂 [Acessar repositório do Notification Hub](https://github.com/Victor-Oliv/notification-hub)
